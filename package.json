@@ -76,7 +76,7 @@
     "http-errors": "^1.7.2",
     "array-flatten": "^1.1.1",
     "mime-db": "^1.42.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "minimatch": "^3.0.4",
     "nodemon": "^2.0.2",
     "ms": "^2.1.2",
