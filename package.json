@@ -45,7 +45,7 @@
     "global-dirs": "^0.1.1",
     "has-flag": "^3.0.0",
     "graceful-fs": "^4.2.3",
-    "got": "^6.7.1",
+    "got": "^11.8.5",
     "ee-first": "^1.1.1",
     "escape-html": "^1.0.3",
     "ignore-by-default": "^1.0.1",
